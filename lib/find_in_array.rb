@@ -5,5 +5,6 @@ while counter < array.length do
 if array[counter] == value_to_find
   return value_to_find
 end
+counter += 1
 end
 end
